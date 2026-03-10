@@ -108,15 +108,22 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+Hi, I'm Tristan 👋
+I'm on a mission to break into data analytics — and I'm building my skills one project at a time. Right now I'm developing hands-on experience with SQL, Python, and Power BI, working through real-world datasets and projects.
+I'm passionate about what data can reveal and I'm fully committed to mastering the tools that uncover those insights. Every repository you see here is a step in that journey.
+Currently learning:
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+🗄️ SQL — querying and manipulating data
+🐍 Python — data wrangling and analysis
+📊 Power BI — building dashboards and visual stories
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+I'm at the beginning — but I'm hungry, consistent, and just getting started. 🚀Hi, I'm Tristan 👋
+I'm on a mission to break into data analytics — and I'm building my skills one project at a time. Right now I'm developing hands-on experience with SQL, Python, and Power BI, working through real-world datasets and projects.
+I'm passionate about what data can reveal and I'm fully committed to mastering the tools that uncover those insights. Every repository you see here is a step in that journey.
+Currently learning:
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+🗄️ SQL — querying and manipulating data
+🐍 Python — data wrangling and analysis
+📊 Power BI — building dashboards and visual stories
+
+I'm at the beginning — but I'm driven, consistent, and just getting started. 🚀
