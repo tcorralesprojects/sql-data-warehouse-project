@@ -117,13 +117,4 @@ Currently learning:
 🐍 Python — data wrangling and analysis
 📊 Power BI — building dashboards and visual stories
 
-I'm at the beginning — but I'm hungry, consistent, and just getting started. 🚀Hi, I'm Tristan 👋
-I'm on a mission to break into data analytics — and I'm building my skills one project at a time. Right now I'm developing hands-on experience with SQL, Python, and Power BI, working through real-world datasets and projects.
-I'm passionate about what data can reveal and I'm fully committed to mastering the tools that uncover those insights. Every repository you see here is a step in that journey.
-Currently learning:
-
-🗄️ SQL — querying and manipulating data
-🐍 Python — data wrangling and analysis
-📊 Power BI — building dashboards and visual stories
-
-I'm at the beginning — but I'm driven, consistent, and just getting started. 🚀
+I'm at the beginning — but I'm hungry, consistent, and just getting started. 🚀
